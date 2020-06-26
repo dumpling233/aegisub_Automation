@@ -1,5 +1,5 @@
 # 处理歌词插件
-<img src="https://github.com/dumpling233/aegisub_Automation/blob/master/image/menu.png" width="350" height="100" alt="抖音小程序"/><br/>
+<img src="https://github.com/dumpling233/aegisub_Automation/blob/master/image/menu.png" width="350" height="100" alt=""/><br/>
 
 ## 1.中日歌词分离
 
