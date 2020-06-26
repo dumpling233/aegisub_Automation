@@ -3,7 +3,7 @@
 
 ## 1.中日歌词分离
 
-用于分离你从网易云或者萌娘百科上直接复制粘贴进aeg里的插件。
+用于分离你从网易云或者萌娘百科上直接复制粘贴进aeg里的插件。就省的你之前还要先粘贴进文本文档里删空白行，手动把中日分开之类的很繁琐的操作。
 一般从网易云或者萌娘百科上，直接复制粘贴进aeg的形式会是这样的
 
 <img src="https://github.com/dumpling233/aegisub_Automation/blob/master/image/%E6%AD%8C%E8%AF%8D1.png" width="500" height="250" alt=""/><br/>
